@@ -19,7 +19,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ['http://masscom-ci.com/'],
+    'allowed_origins' => ['https://masscom-ci.com/', 'http://localhost:3000/'],
 
     'allowed_origins_patterns' => [],
 
