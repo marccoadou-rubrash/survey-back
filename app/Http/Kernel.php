@@ -43,7 +43,7 @@ class Kernel extends HttpKernel
         PreventRequestsDuringMaintenance::class,
         ValidatePostSize::class,
         TrimStrings::class,
-        ConvertEmptyStringsToNull::class,
+        ConvertEmptyStringsToNull::class
     ];
 
     /**
